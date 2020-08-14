@@ -1,13 +1,22 @@
 # gwu_full_stack
-GWU Full Stack Project: Part one 
+GWU Full Stack Project: 
 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
+First part: HTML & CSS: Code Refactor
 
-Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
+Use the provided existing code and refactor it to meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
 
-> Always leave the code you are editing a little cleaner than you found it.
+Table of contents:
 
-To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+1. Quick start
+2. User Story
+3. Acceptance Criteria
+4. Creators
+
+
+## Quick start
+1. Clone the repo: https://gw.bootcampcontent.com/GW-Coding-Boot-Camp/gwu-arl-fsf-pt-08-2020-u-c.git
+2. Pull the latest code version
+
 
 ## User Story
 AS A marketing agency
@@ -28,3 +37,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+## Creators
+
+Project created by: Venus Hu
+Github: https://gw.bootcampcontent.com/GW-Coding-Boot-Camp/gwu-arl-fsf-pt-08-2020-u-c.git
