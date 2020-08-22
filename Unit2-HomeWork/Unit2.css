@@ -1,0 +1,84 @@
+
+/* AboutMe image */
+.image{
+    float: left;
+    height: 25rem;
+    width: 20rem;
+    margin:2%;
+}
+
+/* Style for all three html */
+#navBar{
+    margin-top: 6%;
+} 
+
+#navbar-Title{
+    background-color: lightseagreen;
+    font-family: 'Abril Fatface', cursive;
+    color:white;
+    font-size:xx-large;
+}
+
+#HeaderOne{
+    border-bottom-style: solid;
+    padding-bottom: 10px;
+    font-family: 'Abril Fatface', cursive;
+    color:teal;
+    font-size: x-large;
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+
+#Contact{
+    border-bottom-style: solid;
+    padding-bottom: 10px;
+    font-family: 'Abril Fatface', cursive;
+    color:teal;
+    font-size: x-large;
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+
+/* Portfolio style */
+#Portfolio{
+    border-bottom-style: solid;
+    padding-bottom: 10px;
+    font-family: 'Abril Fatface', cursive;
+    color:teal;
+    font-size: x-large;
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+
+.img-responsive{
+    height: 350px;
+    width: 400px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+
+#footer {
+    margin-top: 5%;
+    text-align: center;
+    background-color:grey ;
+    color: white;
+    padding: 0 15px;
+    height: 80px;
+    line-height: 80px;
+  }
+
+#container{
+    background-color: lightgrey;
+}
+#containerOne{
+    background-color:whitesmoke;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.nav-link{
+    font-family: 'Abril Fatface', cursive;
+    font-size: medium;
+}
